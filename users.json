@@ -5,16 +5,20 @@
       "password": "123456",
       "expires": "2026-05-24 02:30:00",
       "banned": false,
-      "max_users": 1
-      "sessions": []
+      "max_users": 1,
+      "sessions": [
+        "PC1"
+      ]
     },
     {
       "login": "promo",
       "password": "1111",
       "expires": "2026-05-24 02:30:00",
       "banned": false,
-      "max_users": 0
-      "sessions": []
+      "max_users": 0,
+      "sessions": [
+        "PC1"
+      ]
     }
   ]
 }
