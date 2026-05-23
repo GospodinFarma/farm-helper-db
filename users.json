@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "login": "test",
+      "password": "123",
+      "subscription_type": "Premium",
+      "expires_at": "31.12.2025"
+    }
+  ]
+}
