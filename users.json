@@ -14,7 +14,7 @@
       "login": "promo",
       "password": "1111",
       "expires": "2026-05-24 02:40:00",
-      "banned": false,
+      "banned": true,
       "max_users": 0,
       "sessions": [
         "PC1"
