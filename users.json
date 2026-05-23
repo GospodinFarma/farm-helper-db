@@ -3,7 +3,7 @@
     {
       "login": "farmer",
       "password": "123456",
-      "expires": "2026-05-24 02:40:00",
+      "expires": "2030-05-24 02:40:00",
       "banned": false,
       "max_users": 1,
       "sessions": [
