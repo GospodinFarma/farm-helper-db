@@ -13,7 +13,7 @@
     {
       "login": "users",
       "password": "user",
-      "expires": "2026-06-24 05:00:00",
+      "expires": "2026-09-24 05:00:00",
       "banned": false,
       "max_users": 0,
       "sessions": [
