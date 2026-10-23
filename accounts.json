@@ -1,8 +1,19 @@
-{
   "settings": {
     "disabled": false,
     "message": ""
   },
-  "users": {},
+  "users": {
+    "vova": {
+      "ban_reason": "",
+      "ban_until": 0,
+      "banned": false,
+      "code_hash": "21fec05192380a59cbdcdee11acb4bf6cee01d8bc685ff4e44cdbdcd17fa5df6",
+      "created": 1792786913,
+      "expires": 0,
+      "hash": "8d2b074fd23f9a37974197f0a8c403983e308d81dadc109e9a3894762b005234",
+      "hwid": "AB716DE9AAD2B04B",
+      "salt": "04e320123e817a60",
+      "tier": "premium"
+    }
+  },
   "version": 1
-}
