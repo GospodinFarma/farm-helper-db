@@ -3,17 +3,10 @@
     "disabled": false,
     "message": "",
     "tg": "https://t.me/aimarkiz",
-    "buy_text": "Здравствуйте! Хочу купить Premium для Farm Helper.\nМой UID: {uid}\nНик: {nick}",
+    "buy_text": "Здравствуйте! Хочу купить Premium для Farm Helper.\nНик: {nick}\nUID: {uid}\nСтрока для списка:\n{entry}",
     "tz": 3
   },
   "users": {
-    "FH-00000000": {
-      "premium": true,
-      "premium_until": "2030-12-31 23:59:59",
-      "banned": false,
-      "ban_until": "",
-      "ban_reason": "",
-      "note": "ПРИМЕР - удалите эту запись или замените UID на настоящий"
-    }
+    "FH-00000000": { "note": "служебная запись, не удалять: сюда над ней вставляются новые строки" }
   }
 }
