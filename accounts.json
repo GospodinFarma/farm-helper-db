@@ -2,7 +2,7 @@
   "settings": {
     "disabled": false,
     "message": "",
-    "tg": "https://t.me/ВАШ_НИК_В_TELEGRAM",
+    "tg": "https://t.me/@aimarkiz",
     "buy_text": "Здравствуйте! Хочу купить Premium для Farm Helper.\nМой UID: {uid}\nНик: {nick}",
     "tz": 3
   },
