@@ -7,6 +7,7 @@
     "tz": 3
   },
   "users": {
+    "FH-62725F5C": { "premium": true, "premium_until": "", "token": "41af3999408250d30b9fcd0cc9c41909f3767466958d74eab3f672f93dc34bb4", "note": "alexanderroot" },
     "FH-00000000": { "note": "служебная запись, не удалять: сюда над ней вставляются новые строки" }
   }
 }
